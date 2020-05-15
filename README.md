@@ -2,8 +2,6 @@
 
 ## How to use? 
 
-### Step1 -> Start virtual environment in two terminals
-
 In the 1st terminal Run Zookeeper. Make sure you are inside kafka_2.13-2.5.0.
 ```
 cd kafka_2.13-2.5.0
