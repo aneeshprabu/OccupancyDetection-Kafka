@@ -1,0 +1,7 @@
+[2020-05-15 20:07:39,045] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 11 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2020-05-15 20:16:49,283] INFO [GroupCoordinator 0]: Member[group.instance.id None, member.id consumer-console-consumer-15690-1-f22cf8fc-29da-4f0a-ad1f-740cd467e969] in group console-consumer-15690 has left, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2020-05-15 20:16:49,290] INFO [GroupCoordinator 0]: Preparing to rebalance group console-consumer-15690 in state PreparingRebalance with old generation 1 (__consumer_offsets-12) (reason: removing member consumer-console-consumer-15690-1-f22cf8fc-29da-4f0a-ad1f-740cd467e969 on LeaveGroup) (kafka.coordinator.group.GroupCoordinator)
+[2020-05-15 20:16:49,302] INFO [GroupCoordinator 0]: Group console-consumer-15690 with generation 2 is now empty (__consumer_offsets-12) (kafka.coordinator.group.GroupCoordinator)
+[2020-05-15 20:17:39,077] INFO [GroupMetadataManager brokerId=0] Group console-consumer-15690 transitioned to Dead in generation 2 (kafka.coordinator.group.GroupMetadataManager)
+[2020-05-15 20:17:39,088] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 31 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2020-05-15 20:27:39,056] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 1 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
